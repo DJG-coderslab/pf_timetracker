@@ -1,0 +1,16 @@
+
+response.json() = 
+{
+    data: [
+        obiect
+        obiect
+        {
+            addedDate:
+            description:
+            id:
+            status:
+            title:
+        }
+    ]
+    error: "boolean"
+}
